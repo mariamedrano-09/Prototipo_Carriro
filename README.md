@@ -1,4 +1,4 @@
-El contenido de esta aplicacion, se realiza para el Entregable 01 Universidad de Cordoba. Consiste en crear un prototipo completo en Figma incluyendo:
+El contenido de esta aplicacion, se realiza para el Entregable 01 Universidad de Cordoba. Consiste en crear un prototipo completo en Figma / Adobe XD incluyendo:
 
 -Login
 
